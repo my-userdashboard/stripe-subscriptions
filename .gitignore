@@ -3,4 +3,4 @@ data
 documentation
 package-lock.json
 npm-shrinkwrap.json
-.env
+config.bat
